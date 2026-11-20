@@ -20,7 +20,7 @@ You are running Simon's outreach pipeline for his done-for-you Build America, Bu
 - Don't invent facts. Every personalized detail must come from a source you actually read; note the source in the tracker.
 
 ## Step 1: Check replies
-For every tracker row with status `sent` or `followed-up`, search Gmail for messages from that contact's address or domain since the sent date. If found:
+For every tracker row with status `sent` or `followed-up`, search Gmail for that contact's domain with NO folder filter (do not use `in:inbox`): query `from:<domain> OR to:<domain>` plus `subject:"BABA letters"`, with `includeTrash: true`. Look for any message in the thread not sent by Simon. Note: Simon's Gmail forwards to his iCloud address. If Gmail is set to delete its copy, replies will not appear in Gmail at all. If every search comes back empty, say in the report that replies may only be visible in Simon's Apple Mail (simon@stillworld.com) and he should check there. If found:
 - Set status `replied` and write a one-line summary in Notes.
 - Classify: **invoice received** (they sent a PO/invoice: say so loudly in your report, this is a win), **interested**, **not now**, **wrong person** (note who they pointed to), **no**.
 - Do NOT draft a reply automatically. Suggest a next step in your report instead.
