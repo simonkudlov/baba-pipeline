@@ -1,6 +1,6 @@
 ---
 type: tracker
-updated: 2026-11-20
+updated: 2026-11-23
 ---
 # BABA Prospects
 
@@ -22,5 +22,6 @@ Outreach tracker for Simon's BABA Compliance Service. Updated by the scheduled c
 | Kit Carson Electric Cooperative | NM | Luis A. Reyes Jr., CEO | (not published; kitcarson.com blocks bots) | drafted – needs email | | | Hook: first signed BEAD agreement in NM (Oct 14 2026), $26.99M, 3,935 locations, 1,035 fiber miles (931 aerial, 104 buried). Source: OBAE press release PDF on kitcarson.com. |
 | Wabash Mutual Telephone | IN (HQ Celina, OH) | Mike Boley, President and CEO | mikeb@wabash.com | sent | 2026-11-20 | | Hook: $1,016,393 BEAD subgrant from Indiana Broadband Office. Source: in.gov/indianabroadband/files/Wabash-Mutual-BEAD-Agreement.pdf (email listed there as notice and project contact). |
 | Paulding Putnam Electric Cooperative | OH/IN | Randy Price, CEO (retiring Jan 2027) | (not published; member_services@ppec.coop, 800-686-2357) | drafted – needs email | | | Hook: $13.2M Indiana BEAD award, 1,464 locations in Allen, Adams, DeKalb, Noble counties, fiber, construction starts spring 2027. Source: communitynetworks.org (Paulding Putnam BEAD grant). No sample attached. |
+| Hamilton Telecommunications (Nedelco) | NE | Dan Molliconi, COO | (not published; only info@hamilton.net found) | drafted – needs email | | | Hook: two BEAD projects, fiber to 328 locations in rural Howard County, ~$5.2M grant, 25% match. Source: hamilton.net/?p=13516. Draft has no sample attached and says sample is available on request: change to attached when adding the file. |
 
-**Pipeline:** 8 contacted · 4 drafted · 1 reply · 0 invoices received
+**Pipeline:** 8 contacted · 5 drafted · 1 reply · 0 invoices received
